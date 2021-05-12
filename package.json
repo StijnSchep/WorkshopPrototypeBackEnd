@@ -24,7 +24,7 @@
     "mkdirp": "0.5.1",
     "mocha": "6.1.4",
     "mssql": "5.1.0",
-    "nodemailer": "6.2.1",
+    "nodemailer": "6.4.16",
     "utf8": "3.0.0"
   }
 }
