@@ -20,7 +20,7 @@
     "express": "4.17.0",
     "express-fileupload": "1.1.5",
     "helmet": "3.18.0",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "mkdirp": "0.5.1",
     "mocha": "6.1.4",
     "mssql": "5.1.0",
